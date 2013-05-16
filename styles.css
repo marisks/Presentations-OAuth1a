@@ -60,6 +60,7 @@ q { font-size: 50%; }
 
 ul {
     font-size: 60%;
+    margin-left: 20px;
 }
 ul li:before {
     content: "# ";
